@@ -1,6 +1,4 @@
-# fun
-Notes on fun problems and things I want to learn.
-Everything is created in Jupyter notebooks for easy reading
+Practice problems and things I want to learn
 
 ## projects
-- [Sum of cubes](https://nbviewer.jupyter.org/url/treharne/fun/tree/master/sum_of_cubes)
+- [Sum of cubes](https://nbviewer.jupyter.org/github/treharne/fun/blob/master/sum_of_cubes/sum_of_cubes.ipynb)
