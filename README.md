@@ -7,4 +7,4 @@ Practice problems, code examples, and things I want to learn
 - [**Monty Hall**](https://github.com/treharne/fun/blob/master/monty_hall/monty.ipynb) - An exploration and numeric analysis of the Monty Hall Problem
 - [**Collatz Conjecture**](https://github.com/treharne/fun/blob/master/collatz_conjecture/collatz.ipynb) - An exploration with visualisations to improve understanding of the Collatz Conjecture
 - [**Blockchain**](https://github.com/treharne/fun/blob/master/blockchain/blockchain.ipynb) - Making a basic distributed blockchain to explore key concepts.
-- [**Simplest Intermediate Fraction**](https://github.com/treharne/fun/blob/master/simplest_intermediate_fraction_/intfrac.ipynb) - Find the fraction with the lowest integer denominator between two other fractions.
+- [**Simplest Intermediate Fraction**](https://github.com/treharne/fun/blob/master/simplest_intermediate_fraction/intfrac.ipynb) - Find the fraction with the lowest integer denominator between two other fractions.
